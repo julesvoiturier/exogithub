@@ -1,3 +1,6 @@
 mkdir
 mkdir -p
 touch
+
+ls
+cd
